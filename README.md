@@ -1,7 +1,7 @@
 # Bike-Sharing-Analysis
 
--	Performed data cleaning on dataset
+●	Performed data preprocessing to enhance data quality and identify outliers for effective analysis
 
-- Performed univariate and multivariate analysis on your dataset 
+●	Developed univariate and multivariate visualizations to uncover rental trends and external influences
 
--	Identified the core findings and insights that help answer business/research questions 
+●	Designed cohesive dashboards that deliver actionable recommendations for optimizing operations
